@@ -1,0 +1,56 @@
+[
+    {
+          "icon": "mdi-file-music-outline",
+          "color": "purple",
+          "text": "音源配布",
+          "isRouterLink": true,
+          "href": "/musics",
+          "style": "text-shadow: 0 0 1px purple, 0 0 3px purple; font-weight: 300;",
+          "tooltip": "音源をダウンロードできるページに移動します。ゆくゆくは本ページと合体出来たらいいな～って思ってます。"
+    },
+    {
+          "icon": "mdi-television-classic",
+          "color": "#CFD8DC",
+          "text": "ニコニコ動画",
+          "isRouterLink": false,
+          "href": "https://www.nicovideo.jp/user/21791951",
+          "style": "text-shadow: 0 0 1px #CFD8DC, 0 0 3px #CFD8DC; font-weight: 300;",
+          "tooltip": "ニコニコ動画のユーザーページに移動します。フォローしてね。"
+    },
+    {
+          "icon": "mdi-youtube",
+          "color": "red",
+          "text": "youtube",
+          "isRouterLink": false,
+          "href": "https://www.youtube.com/channel/UCfvuOsT-WvbAomxhffNAlNg",
+          "style": "text-shadow: 0 0 1px red, 0 0 3px red; font-weight: 300;",
+          "tooltip": "Youtubeのチャンネルページに移動します。登録してね。"
+    },
+    {
+          "icon": "mdi-post-outline",
+          "color": "#3F51B5",
+          "text": "はてなブログ",
+          "isRouterLink": false,
+          "href": "https://uboar.hatenablog.com",
+          "style": "text-shadow: 0 0 1px #3F51B5, 0 0 3px #3F51B5; font-weight: 300;",
+          "tooltip": "文字を書きます。こちらも放置ぎみ。"
+    },
+    {
+          "icon": "mdi-twitter",
+          "color": "cyan",
+          "text": "twitter",
+          "isRouterLink": false,
+          "href": "https://twitter.com/_uboar_",
+          "style": "text-shadow: 0 0 1px cyan, 0 0 3px cyan; font-weight: 300;",
+          "tooltip": "Twitterのユーザーページに移動します。"
+    },
+    {
+          "icon": "mdi-soundcloud",
+          "color": "orange",
+          "text": "soundcloud",
+          "isRouterLink": false,
+          "href": "https://soundcloud.com/user-151411473",
+          "style": "text-shadow: 0 0 1px orange, 0 0 3px orange; font-weight: 300;",
+          "tooltip": "Soundcloudのチャンネルページに移動します。あんまり使ってません。"
+    }
+]
