@@ -1,17 +1,17 @@
 [
-    {
-      "type": "niconico",
-      "contents": "sm39491085",
-      "backColor": "light-blue lighten-5"
-    },
-    {
-      "type": "niconico",
-      "contents": "sm38976250",
-      "backColor": "amber lighten-3"
-    },
-    {
-      "type": "niconico",
-      "contents": "sm38340785",
-      "backColor": "green accent-2"
-    }
+  {
+    "type": "niconico",
+    "contents": "sm40025827",
+    "backColor": "pink lighten-5"
+  },
+  {
+    "type": "niconico",
+    "contents": "sm39491085",
+    "backColor": "light-blue lighten-5"
+  },
+  {
+    "type": "niconico",
+    "contents": "sm38976250",
+    "backColor": "amber lighten-3"
+  }
 ]

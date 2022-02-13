@@ -11,7 +11,7 @@
               <h3>お知らせ</h3>
             </v-expansion-panel-header>
             <v-expansion-panel-content>
-              とりあえず何か書いとけ
+              (2022/2/13)新音源配布ページのテスト運用開始
             </v-expansion-panel-content>
           </v-expansion-panel>
           <v-expansion-panel>
@@ -20,7 +20,6 @@
             </v-expansion-panel-header>
             <v-expansion-panel-content>
               <v-carousel
-                cycle
                 height="360"
                 hide-delimiter-background
                 show-arrows-on-hover
