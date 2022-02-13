@@ -1,12 +1,21 @@
 [
+      {
+            "icon": "mdi-file-music-outline",
+            "color": "purple",
+            "text": "音源配布",
+            "isRouterLink": false,
+            "href": "https://textsampleofmusic.wordpress.com",
+            "style": "text-shadow: 0 0 1px purple, 0 0 3px purple; font-weight: 300;",
+            "tooltip": "音源をダウンロードできるページに移動します。ゆくゆくは本ページと合体出来たらいいな～って思ってます。"
+      },
     {
           "icon": "mdi-file-music-outline",
           "color": "purple",
-          "text": "音源配布",
+          "text": "音源配布(新/テスト運用中)",
           "isRouterLink": true,
           "href": "/musics",
           "style": "text-shadow: 0 0 1px purple, 0 0 3px purple; font-weight: 300;",
-          "tooltip": "音源をダウンロードできるページに移動します。ゆくゆくは本ページと合体出来たらいいな～って思ってます。"
+          "tooltip": "音源をダウンロードできるページに移動します。テスト運用中です。"
     },
     {
           "icon": "mdi-television-classic",
