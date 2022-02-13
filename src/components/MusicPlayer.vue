@@ -1,7 +1,7 @@
 <template>
   <v-row>
     <v-col />
-    <v-col align-self="center" md="12">
+    <v-col align-self="center" md="8">
       <h1>UBO-MUSICS(テスト運用中)</h1>
       <VueGlow
         :color="$vuetify.theme.themes.dark.primary"
